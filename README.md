@@ -1,11 +1,8 @@
 Day17 Task:
 
-#Install docker
-###sudo apt-get update
-Hit:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal InRelease
-Hit:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal-updates InRelease
-Hit:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal-backports InRelease
-Get:4 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+# Install docker
+### sudo apt-get update
+
 Fetched 114 kB in 0s (317 kB/s)                      
 Reading package lists... Done
 ubuntu@ip-172-31-63-211:~$ sudo apt-get install \
