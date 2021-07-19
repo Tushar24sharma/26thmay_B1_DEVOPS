@@ -1,6 +1,6 @@
 Day17 Task:
 
-#"Install Docker"
+#Install docker
 ###sudo apt-get update
 Hit:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal InRelease
 Hit:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal-updates InRelease
@@ -37,8 +37,8 @@ Fetched 62.1 kB in 0s (148 kB/s)
 Reading package lists... Done
  ###sudo apt-get install docker-ce docker-ce-cli containerd.io
  
- < img src=dockerinstall.png>
- < img src=pull.png>
+ <img src=dockerinstall.png>
+ <img src=pull.png>
  
  ##start pause and stop the docker container
  sudo docker run ubuntu:20.04 sleep 100
