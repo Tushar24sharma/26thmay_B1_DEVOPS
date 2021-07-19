@@ -1,1 +1,3 @@
-# 26thmay_B1_DEVOPS
+# Task 1
+<img src=task1.png>
+<img src=task.png>
